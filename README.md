@@ -1,1 +1,1 @@
-# Linguagem-C-Estruturas-de-Sele-o
+- Testes rápidos de meus estudos em conceitos de Linguagem C: Estruturas de Seleção
